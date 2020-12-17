@@ -29,7 +29,7 @@ var budgetController = (function () {
         this.value = value;
     };
 
-    //Satyam
+    //Satyam jha
     var calculateTotal = function (type) {
         var sum = 0;
         data.allItems[type].forEach(function (cur) {
